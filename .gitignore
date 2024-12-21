@@ -1,0 +1,36 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore build output
+/dist/
+/build/
+
+# Ignore dependency directories for Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Ignore Java classes and JAR files
+*.class
+*.jar
+/target/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/project-specific files
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# Ignore environment files
+.env
+.env.local
+
