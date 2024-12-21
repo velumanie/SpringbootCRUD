@@ -1,4 +1,0 @@
-This is my first line of code to git!!
-
-Second line after my first checkin!!
-
