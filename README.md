@@ -1,5 +1,4 @@
 
-```markdown
 # RestCrudApplication
 
 RestCrudApplication is a Spring Boot application that provides a RESTful API for managing products. It includes basic CRUD operations and is documented using OpenAPI 3.0 annotations.
@@ -61,5 +60,3 @@ RestCrudApplication is a Spring Boot application that provides a RESTful API for
 ### API Documentation
 
 The API is documented using OpenAPI 3.0. You can access the API documentation by navigating to `/swagger-ui.html` in your browser after running the application.
-
-```
